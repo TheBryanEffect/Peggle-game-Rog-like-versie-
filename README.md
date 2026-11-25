@@ -1,11 +1,4 @@
-# Les 1.1: Voorbeeld Concept: Fruity Peggle
-
-Dit is mijn voorbeeldconcept voor het Physics Project.  
-Gebruik dit als **basis voor je eigen opzet**:  
-- Houd je aan de verplichte basisfeatures (ballen afschieten, bumps raken, score).  
-- Kies daarna je **eigen thema, stijl en naam**.  
-- Vul dit format in je eigen README aan met jouw ideeën.  
-- Noteer wekelijks wat je hebt gemaakt, hoe je dat hebt gedaan en wat je hebt geleerd.
+# Les 1.1:
 
 ## Conceptschets
 
@@ -14,25 +7,23 @@ Titel: Shooty Duty
 Genre: Physics-based arcade puzzelgame
 
 ## Beschrijving
-De speler schiet een bal (bijv. een citroen) van boven in het speelveld.  
-De bal stuitert tegen fruitstukken (appels, druiven, sinaasappels) en sapflesjes.  
-Bij elke aanraking spat er sap op het scherm en loopt de score op.  
-Wanneer de bal in een blender onderaan valt, wordt de beurt afgesloten.  
-Hoe meer fruit je raakt, hoe voller de sapmeter wordt.
+De speler schiet een bal uit een "geweer" en schiet hiermee op Muntjes (ronde muntjes).
+hiermee kan je power-ups kopen om je geweer sterker te maken. maar na elke ronde moet je elk level meer van je muntjes inleveren voor kogels van je pistool.
+heb je dit niet en kan je geen kogels meer kopen is het game over. de muntjes die je overheb kan je dan besteden aan powerups!
 
 ## Gameplaykern
-- **Bal:** een stuk fruit (citroen, kiwi, aardbei)  
-- **Targets / bumps:** ander fruit met colliders  
-- **Score:** punten + sapmeter stijgt  
-- **Doel:** maak een volle smoothie voordat je beurten op zijn  
+- **Bal:** grijze bal/een kanon kogel  
+- **Targets / bumps:** muntjes met colliders  
+- **Score:** geld 
+- **Doel:** genoeg geld overhouden na elke ronden om te overleven 
 
 ## Stijl en sfeer
-Kleurrijk, sappig, cartoony en met geluiden van fruit dat spat of plopt.
+Medival achtig met een donkere sfeer
 
 ## Structuur van het level
 - **Bovenaan:** schietplek (de speler richt en vuurt)  
-- **Midden:** veld vol fruit (cirkelvormige of onregelmatige patronen)  
-- **Onderaan:** opvangbak of blender (scoreberekening)
+- **Midden:** veld vol gmuntjes 
+- **Onderaan:** opvangbak 
 
 ---
 
@@ -42,10 +33,17 @@ Hier noteer je wekelijks wat je hebt gemaakt, hoe je het hebt aangepakt en wat j
 Vermeld ook kort welke theorie of technieken uit de les je hebt toegepast.
 
 ### Week 1
-Wat heb je gemaakt?  
-Hoe heb je dit gedaan?  
-Waar liep je tegenaan?  
-Welke theorie of Unity-onderdelen heb je geleerd of toegepast?
+## Wat heb je gemaakt?
+ik heb het unity project gelinkt aan github, ik heb verschillende ideen bedacht voor het spel
+
+## hoe heb je dit gedaan?
+met behulp van github desktop
+
+## Waar liep je tegenaan? 
+het idee hoe ik dit auberhaupt kan uitvoeren
+
+## Welke theorie of Unity-onderdelen heb je geleerd of toegepast?
+De github link, ik heb ook alvast wat animatie geoefend, dit kan wel van pas komen bij de game
 
 ### Week 2
 Wat heb je toegevoegd of verbeterd?  
