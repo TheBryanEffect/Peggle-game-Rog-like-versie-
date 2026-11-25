@@ -4,7 +4,7 @@
 
 Titel: Shooty Duty
 
-Genre: Physics-based arcade puzzelgame
+Genre: Physics-based arcade rog-like game
 
 ## Beschrijving
 De speler schiet een bal uit een "geweer" en schiet hiermee op Muntjes (ronde muntjes).
